@@ -1,4 +1,4 @@
-# 🐍 Python Learning Portfolio
+# Python Learning Portfolio
 
 ## About
 
@@ -62,3 +62,7 @@ Each README.md file includes:
 ## Learning Journey
 
 This repository is continuously updated as I learn new concepts, complete new projects, and reflect on my progress.
+
+## License
+
+This repository is intended as a personal learning portfolio. Feel free to browse the projects for inspiration.
